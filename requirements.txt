@@ -1,0 +1,7 @@
+jupyter
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+python-dotenv

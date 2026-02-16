@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+bin/
+lib/
+share/
+Include/
+Scripts/
+pyvenv.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment variables (for API keys later)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
