@@ -27,3 +27,8 @@ Thumbs.db
 data/
 *.json.gz
 *.csv
+*.parquet
+
+# Ignore AI assets/embeddings
+models/*.npy
+models/*.index
